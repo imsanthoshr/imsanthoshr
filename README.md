@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **ML,DL**
 
-- 💬 Ask me about **Python, MYSQL, Android Studios**
+- 💬 Ask me about **Python, MYSQL, Android Studios, Scraping**
 
 - 📫 How to reach me **iamsanthoat@gmail.com**
 
